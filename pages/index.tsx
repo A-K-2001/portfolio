@@ -102,7 +102,7 @@ const Home = () => {
 		<div>
 			<Head>
 				<title>Anil kumar Portfolio</title>
-				<meta name="description" content="Portfolio for Deepanshu Jain" />
+				<meta name="description" content="Portfolio for Anil kumar" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
