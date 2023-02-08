@@ -117,7 +117,7 @@ const Home = () => {
 								
 								<div className={SkillsStyles.tooltip}>
 								<a href="https://github.com/A-K-2001">
-									<SiGithub size={25} />
+									{/* <SiGithub size={25} /> */}
 								</a>
 								<span className={SkillsStyles.tooltiptext}>GitHub</span></div>
 							
@@ -126,6 +126,14 @@ const Home = () => {
 									<SiLinkedin size={25} />
 								</a>
 								<span className={SkillsStyles.tooltiptext}>Linkedin</span></div>
+								<div className={SkillsStyles.tooltip}>
+									<a href="https://github.com/A-K-2001">
+
+									<SiGithub size={25}/><span className={SkillsStyles.tooltiptext}>GitHub
+								</span>
+									</a>
+									
+								</div>
 								
 								<div className={SkillsStyles.tooltip}>
 								<a href="mailto:kumaranilstps017@gmail.com">
