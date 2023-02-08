@@ -393,7 +393,7 @@ const Home = () => {
 								Personal portfolio website. Created using NextJS and hosted on Vercel.
 							</p>
 							<div>
-								<a className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://github.com/XDRAGON2002/PORTFOLIO">View</a>
+								<a className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://github.com/A-K-2001/portfolio">View</a>
 							</div>
 						</div>
 					</div>
