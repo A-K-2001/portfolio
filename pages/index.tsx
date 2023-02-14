@@ -397,7 +397,7 @@ const Home = () => {
 							</div>
 						</div>
 					</div>
-					<a className="bg-green-500 text-white p-4 flex w-36 text-1xl rounded-xl justify-around font-semibold mt-12" href="https://github.com/deepanshu2810">View All</a>
+					<a className="bg-green-500 text-white p-4 flex w-36 text-1xl rounded-xl justify-around font-semibold mt-12" href="https://github.com/A-K-2001">View All</a>
 				</div>
 			</div>
 
