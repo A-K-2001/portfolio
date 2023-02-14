@@ -179,11 +179,11 @@ const Home = () => {
 						<img className="h-72 w-72 rounded-xl" src="anildp.jfif" />
 						<div className="flex flex-col space-y-20 justify-center items-center grow mx-12 md:items-start">
 							<p>
-								I&apos;m well versed in the technical domains of AI/ML, Web Development and DevOps.
+								I&apos;m well versed in the technical domains of Web Development and AI/ML.
 								<br />
-								I&apos;m willing to collaborate together on Open Source projects, am also interested in mentoring people that need help in tech and also like to give technical talks at various tech events, communities and conferences.
+								Currently I&apos;m an Undergraduate student at the <a href='https://www.iiitm.ac.in/index.php/en/'>Indian Institute of Information Technology, Gwalior</a> majoring in Computer Science and Engineering.
 								<br />
-								Feel free to reach out to me in case of any internship or job opportunites as well. Would also be willing to work as a freelancer too.
+								Feel free to reach out to me in case of any internship or job opportunites as well.
 							</p>
 							<a className="bg-green-500 text-white p-4 flex w-44 text-1xl rounded-xl justify-around font-semibold" download href="https://drive.google.com/file/d/1LoIF-QKc8mthgAseMitXszbbQaIm-dr2/view?usp=sharing">
 								Download CV
