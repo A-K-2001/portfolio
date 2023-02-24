@@ -101,7 +101,7 @@ const Home = () => {
 	return (
 		<div>
 			<Head>
-				<title>Anil kumar Portfolio</title>
+				<title>Anil kumar</title>
 				<meta name="description" content="Portfolio for Anil kumar" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<link rel="icon" href="/favicon.ico" />
