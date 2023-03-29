@@ -253,7 +253,7 @@ const Home = () => {
 			</div>
 
 
-			{/* <a id="experience"></a>
+			<a id="experience"></a>
 			<div>
 				<div className="pt-28 md:mx-32 md:pt-44 flex flex-col items-center">
 					<h1 className="text-5xl font-semibold mb-4">Experience</h1>
@@ -262,36 +262,21 @@ const Home = () => {
 						<div className="flex space-x-8 md:space-x-32 my-8">
 							<div className="">
 								<div className="inline-block h-16 w-16 rounded-full">
-									<img className="h-16 w-16 rounded-full" src="GSOC.png" />
+									<img className="h-16 w-16 rounded-full" src="https://www.scopex.money/images/logo_green.png" />
 								</div>
 								<div className="block w-1 h-full bg-green-400 ml-7"></div>
 							</div>
 							<div>
-								<h1 className="text-2xl mb-4">GSoC Contributor</h1>
-								<h1 className="text-2xl mb-4 text-green-400">Intel, Python Software Foundation</h1>
+								<h1 className="text-2xl mb-4">Full Stack Web Developer Intern</h1>
+								<h1 className="text-2xl mb-4 text-green-400">ScopeX, Cross-border financial services</h1>
 								<div>
-									<h1 className="flex space-x-4 items-center"><SlCalender /><div>May 2022 - September 2022</div></h1>
-								</div>
-							</div>
-						</div>	
-						<div className="flex space-x-8 md:space-x-32 my-8">
-							<div className="">
-								<div className="inline-block h-16 w-16 rounded-full">
-									<img className="h-16 w-16 rounded-full" src="DIGIPPLUS.jfif" />
-								</div>
-								<div className="block w-1 h-full bg-green-400 ml-7"></div>
-							</div>
-							<div>
-								<h1 className="text-2xl mb-4">SDE Intern</h1>
-								<h1 className="text-2xl mb-4 text-green-400">Digipplus</h1>
-								<div>
-									<h1 className="flex space-x-4 items-center"><SlCalender /><div>October 2021 - November 2021</div></h1>
+									<h1 className="flex space-x-4 items-center"><SlCalender /><div>March 2023 - Present</div></h1>
 								</div>
 							</div>
 						</div>	
 					</div>
 				</div>
-			</div> */}
+			</div>
 
 
 			<a id="projects"></a>

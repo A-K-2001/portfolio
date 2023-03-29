@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Restaurants>
+    <Restaurant>
+        <Name>Anil</Name>
+        <Address>sog</Address>
+        <Menu>
+            <Drinks>
+                <Wine>
+                    <Name>Data</Name>
+                    <Year>Data</Year>
+                    <Price>Data</Price>
+                </Wine>
+            </Drinks>
+            <Meals>
+                <Meal>
+                    <Name>Data</Name>
+                    <Price>Data</Price>
+                </Meal>
+            </>Meals>
+            <Desserts>
+                <Dessert>
+                    <Name>Data</Name>
+                    <Price>Data</Price>
+                </Dessert>
+            </Desserts>
+        </Menu>
+        <Combos>
+            <Combo>
+                <WineName>Data</WineName>
+                <WineYear>Data</WineYear>
+                <mealName>Data</mealName>
+            </Combo>
+        </Combos>
+    </Restaurant>
+</Restaurants>

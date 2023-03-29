@@ -44,9 +44,9 @@ const Navbar = () => {
                             <li className="px-2">
                                 <Link href="#skills">Skills</Link>
                             </li>
-                            {/* <li className="px-2">
+                            <li className="px-2">
                                 <Link href="#experience">Experience</Link>
-                            </li> */}
+                            </li>
                             <li className="px-2">
                                 <Link href="#projects">Projects</Link>
                             </li>
@@ -87,14 +87,14 @@ const Navbar = () => {
                                     </div>
                                 </Link>
                             </li>
-                            {/* <li className="px-2">
+                            <li className="px-2">
                                 <Link href="#experience">
                                     <div className="flex flex-col justify-center items-center">
                                         <MdWork size={25} />
                                         Experience
                                     </div>
                                 </Link>
-                            </li> */}
+                            </li>
                             <li className="px-2">
                                 <Link href="#projects">
                                     <div className="flex flex-col justify-center items-center">
