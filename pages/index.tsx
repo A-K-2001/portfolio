@@ -304,7 +304,7 @@ const Home = () => {
 							  Firebase Realtime Database use for image and mongodb for rest.
 							</p>
 							<div>
-								<a className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://github.com/A-K-2001/frontend">View</a>
+								<a className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://letsgroww.vercel.app/">View</a>
 							</div>
 						</div>
 						<div className="flex flex-col items-center py-10 px-10 mx-4 shadow-sm shadow-green-400 rounded-xl space-y-4">
